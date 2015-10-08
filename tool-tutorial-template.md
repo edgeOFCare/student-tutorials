@@ -10,7 +10,7 @@ layout: default
 
 #Introduction#
 Hi! This tutorial is about how to use jekyll.
-Jekyll is a program that helps you build your own website in an easy and simple manner.
+Jekyll is a program that helps you build your own website in an "easy" and "simple" manner.
 
 #Software & Setup
 how to install the tool or other prerequisites for using it
