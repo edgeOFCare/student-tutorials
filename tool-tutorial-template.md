@@ -10,7 +10,7 @@ layout: default
 
 #Introduction#
 Hi! This tutorial is about how to use jekyll.
-Jekyll is a program that helps you build your own website in an "easy" and "simple" manner.   This is to keep you from being held "hostage" by other site's constructions.  In using Jekyll you are free to custimize and construct how you want it wihtout your format becoming outdated.  It is protected from whims of wordpress and other templates (nudge nudge Apple and Windows).
+Jekyll is a program that helps you build your own website in an "easy" and "simple" manner.   This is to keep you from being held "hostage" by other site's constructions.  In using Jekyll, you are free to custimize and construct how you want it wihtout your format becoming outdated.  It is protected from whims of wordpress and other templates (nudge nudge Apple and Windows).
 
 #Software & Setup
 how to install the tool or other prerequisites for using it
