@@ -1,16 +1,19 @@
 ---
-title: a template for student-written tool tutorials
+title: Jekyll Tutorial
 authors:
-- Shawn Graham
-date: 2015-08-12
+- Alex Nahas and Justin Langille
+date: 2015-10-12
 reviewers:
 - n/a
 layout: default
 ---
 
 #Introduction#
-Hi! This tutorial is about how to use jekyll.
-Jekyll is a program that helps you build your own website in an "easy" and "simple" manner.   This is to keep you from being held "hostage" by other site's constructions.  In using Jekyll, you are free to custimize and construct how you want it wihtout your format becoming outdated.  It is protected from whims of wordpress and other templates (nudge nudge Apple and Windows).
+Tired of being held hostage by Big Programs and their shackling formats?  Wait no more; Jekyll is here for you with the help of GitHUb.
+
+Jekyll is a program that helps you build your own website in an "easy" and "simple" manner. In using Jekyll, you are free to custimize and construct your website how you want it wihtout your format becoming outdated and obsolete.  It is protected from the whims of wordpress and other templates (nudge nudge Apple and Windows).
+
+Justin and I ventured out of our comfort zone to test the credibility of this Super-Blog-Manager.  The detial of our investigation is below.
 
 #Software & Setup
 how to install the tool or other prerequisites for using it
