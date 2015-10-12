@@ -24,18 +24,18 @@ Justin and I ventured out of our comfort zone to test the credibility of this Su
 5.	Go to the settings button on the lower right (cog wheel).
 6.	Find the text box to re-title the repository.
 7.	Name it with your username (eg. BWayneInc.github.io):
-a. Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
+  a. Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
 “About custom domains for Github Sites” to ensure you’re doing it right. 
-b. Scroll down to “How Github Pages use custom domains” 
-c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. BWayneInc.github.io)
+  b. Scroll down to “How Github Pages use custom domains” 
+  c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. BWayneInc.github.io)
 8.	Scroll down and find the green bar! It confirms your site has been published and tell you the link address. 
 9.	Problems? Go back to your forked file, find _config.yml, click on it.
 10.	Click on the pencil icon on the toolbar above the _config.yml text field. 
 11.	In_config.yml go line 6 to change your name. Don’t delete “Name:!”  that’s what tells the code what to do. Write your name after that. 
 12.	Scroll down, and hit commit changes. CHILL! It may take ten minutes for changes to take effect. 
 13.	_config.yml is where you can customize other parts of your new site 
-a.	To change your picture: Go to line 12: Avatar. You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location. Hit commit. 
-b.	It should look like this:
+  a.	To change your picture: Go to line 12: Avatar. You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location. Hit commit. 
+  b.	It should look like this:
 
 #Using the tool
 1.	Go to your BWayneInc.github.io and see the changes you made (username, picture, description). 
