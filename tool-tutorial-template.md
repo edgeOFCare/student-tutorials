@@ -51,7 +51,7 @@ Jekyll is a program that helps you build your own website in an "easy" and "simp
 1. Visualize Repositories Differently
 2. Changing the name of different documents
 3. Limitation of Github tutorials. External, practical knowledge from FAQs and forums necessary.
-4. 
+4. Defining a Github workflow- ensure everyone knows how to push and pull in the proper ways.
 
 #Conclusion
 Be patient and refresh if things aren’t working right away.
