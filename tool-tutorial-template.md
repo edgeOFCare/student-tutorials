@@ -13,7 +13,6 @@ Tired of being held hostage by Big Programs and their shackling formats?  Wait n
 
 Jekyll is a program that helps you build your own website in an "easy" and "simple" manner. In using Jekyll, you are free to custimize and construct your website how you want it wihtout your format becoming outdated and obsolete.  It is protected from the whims of wordpress and other templates (nudge nudge Apple and Windows).
 
-Justin and I ventured out of our comfort zone to test the credibility of this Super-Blog-Manager.  The detial of our investigation is below.
 
 #Software & Setup
 
@@ -23,11 +22,11 @@ Justin and I ventured out of our comfort zone to test the credibility of this Su
 4.	Push it (Fork it!) to start using the Jekyll file. 
 5.	Go to the settings button on the lower right (cog wheel).
 6.	Find the text box to re-title the repository.
-7.	Name it with your username (eg. BWayneInc.github.io):
+7.	Name it with your username (eg. username.github.io):
   a. Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
 “About custom domains for Github Sites” to ensure you’re doing it right. 
   b. Scroll down to “How Github Pages use custom domains” 
-  c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. BWayneInc.github.io)
+  c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
 8.	Scroll down and find the green bar! It confirms your site has been published and tell you the link address. 
 9.	Problems? Go back to your forked file, find _config.yml, click on it.
 10.	Click on the pencil icon on the toolbar above the _config.yml text field. 
