@@ -49,7 +49,8 @@ Jekyll is a program that helps you build your own website in an "easy" and "simp
 
 #Roadblocks
 1. Visualize Repositories Differently
-2. 
+2. Changing the name of different documents
+3. 
 
 #Conclusion
 Be patient and refresh if things aren’t working right away.
