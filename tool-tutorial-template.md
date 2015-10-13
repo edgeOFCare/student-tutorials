@@ -37,7 +37,7 @@ Jekyll is a program that helps you build your own website in an "easy" and "simp
   b.	It should look like this:
 
 #Using the tool
-1.	Go to your BWayneInc.github.io and see the changes you made (username, picture, description). 
+1.	Go to your username.github.io and see the changes you made (username, picture, description). 
 2.	Way to go champ! You’re up and running! 
 3.	To make your first post, just redo the intro. Go back to your repository for Jekyll. 
 4.	Go to _posts. Click on it. 
@@ -47,6 +47,9 @@ Jekyll is a program that helps you build your own website in an "easy" and "simp
 8.	Below line four, start writing your masterpiece. 
 9.	Finish writing, then scroll down and hit COMMIT!
 
+#Roadblocks
+1. Visualize Repositories Differently
+2. 
 
 #Conclusion
 Be patient and refresh if things aren’t working right away.
