@@ -24,8 +24,8 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 4.	Push it (Fork it!) to start using the Jekyll file. 
 5.	Go to the settings button on the lower right (cog wheel).
 6.	Find the text box to re-title the repository.
-7.	Name it with your username (eg. username.github.io):
-  - Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
+7.	Name it with your username (eg. username.github.io) 
+  - Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on it ![DIGH_TUTORIAL_IMAGES-TEXT](Step 2.tiff)
 “About custom domains for Github Sites” to ensure you’re doing it right. 
   - Scroll down to “How Github Pages use custom domains” 
   -	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
