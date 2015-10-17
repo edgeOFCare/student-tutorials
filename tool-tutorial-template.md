@@ -103,7 +103,7 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
   -	To add a picture form the internet you need to type: ![this is an image](http://bitbyteyum.com/images/posts/jekyll+github.png) 
   - Another roadblock: cannot show code because the program will read and obey the code commands.
   - To see the formula used look at the Raw format of this tutorial.
-  -	You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
+  -	Side note: You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
   -	I was able to figure this out by again asking questions
   -	From those questions, I also found out that unless you have GitHub on your desktop, you cannot create a new folder for images to use your own
 
@@ -111,10 +111,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 #Conclusion
 Be patient and refresh if things aren’t working right away.
 
-Visit Jekyll’s site [Jekyll's site](https://jekyllrb.com) to get the latest versions or for the latest news on Jekyll’s goings on. 
+Visit [Jekyll's site](https://jekyllrb.com) to get the latest versions or for the latest news on Jekyll’s goings on. 
 
-Stay in touch with your Jekyll-using Github community [link](https://github.com/barryclark/jekyll-now) to see how people are using Jekyll in new and innovating ways. 
+Stay in touch with your [Jekyll-using Github community](https://github.com/barryclark/jekyll-now) to see how people are using Jekyll in new and innovating ways. 
 
-If you’re really stuck, access this great help forum for Jekyll on Github [link](https://github.com/jekyll/jekyll-help).
+If you’re really stuck, access this great help [forum](https://github.com/jekyll/jekyll-help) for Jekyll on Github.
 
 
