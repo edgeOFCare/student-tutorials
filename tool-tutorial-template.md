@@ -25,7 +25,7 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 5.	Go to the settings button on the lower right (cog wheel).
 6.	Find the text box to re-title the repository.
 7.	Name it with your username (eg. username.github.io) 
-  - Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on it ![Fork](https://raw.githubusercontent.com/edgeOFCare/DIGH_TUTORIAL_IMAGES-TEXT/master/Step%202.tiff)
+  - Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on it!
 “About custom domains for Github Sites” to ensure you’re doing it right. 
   - Scroll down to “How Github Pages use custom domains” 
   -	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
@@ -44,7 +44,6 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
   *  Via internet URLs (as mentioned above)
   *  Or by creating a folder in the repository of your own images and linking them within your document.
 3. Hit commit. 
-4. It should look like this:
 
 #Using the tool
 1.	Go to your new blog site by entering username.github.io in your browser and see the changes you made (username, picture, description). 
@@ -82,7 +81,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 #Roadblocks
 
 ###With GitHub
-1. Visualize Repositories Differently
+1. Name your repositires in way that reflects your workflow, otherwise, things get lost fast.
+2. Work with your peers- compare your work to comparable projects. Going to external pages for Github advice can be misguiding.
+3. When using photos from a Github repository, ensure you know how to find the right file paths, otherwise, URLS may be best.
+4. Document your steps so you can retrace, otherwise you may find yourself veering down a rabbit hole.
 
 ###With Jekyll
 1. Not knowing the code
@@ -108,10 +110,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 #Conclusion
 Be patient and refresh if things aren’t working right away.
 
-Visit Jekyll’s site to get the latest versions or for the latest news on Jekyll’s goings on. 
+Visit Jekyll’s site [link](https://jekyllrb.com) to get the latest versions or for the latest news on Jekyll’s goings on. 
 
-Stay in touch with your Jekyll-using Github community to see how people are using Jekyll in new and innovating ways. 
+Stay in touch with your Jekyll-using Github community [link](https://github.com/barryclark/jekyll-now) to see how people are using Jekyll in new and innovating ways. 
 
-If you’re really stuck, access this great help forum for Jekyll on Github.
+If you’re really stuck, access this great help forum for Jekyll on Github [link](https://github.com/jekyll/jekyll-help).
 
 
