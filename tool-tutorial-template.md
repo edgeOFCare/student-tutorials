@@ -11,7 +11,9 @@ layout: default
 #Introduction#
 Tired of being held hostage by Big Programs and their shackling formats?  Wait no more; Jekyll is here for you with the help of GitHub.
 
-Jekyll is a program that helps you build your own website in an "easy" and "simple" manner. In using Jekyll, you are free to custimize and construct your website how you want it wihtout your format becoming outdated and obsolete.  It is protected from the whims of wordpress and other templates (nudge nudge Apple and Windows).
+Jekyll is a program that helps you build your own website in an "easy" and "simple" manner. In using Jekyll, you are free to custimize and construct your website how you want it without your format becoming outdated and obsolete.  It is protected from the whims of wordpress and other templates (nudge nudge Apple and Windows) by essentially "future-proofing" your documents.
+
+This is a tutorial to show you how to set up your blog wesite with Jekyll and GitHub.
 
 
 #Software & Setup
@@ -29,28 +31,76 @@ Jekyll is a program that helps you build your own website in an "easy" and "simp
   c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
 8.	Scroll down and find the green bar! It confirms your site has been published and tell you the link address. 
 9.	Problems? Go back to your forked file, find _config.yml, click on it.
-10.	Click on the pencil icon on the toolbar above the _config.yml text field. 
-11.	In_config.yml go line 6 to change your name. Don’t delete “Name:!”  that’s what tells the code what to do. Write your name after that. 
-12.	Scroll down, and hit commit changes. CHILL! It may take ten minutes for changes to take effect. 
-13.	_config.yml is where you can customize other parts of your new site 
-  a.	To change your picture: Go to line 12: Avatar. You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location. Hit commit. 
-  b.	It should look like this:
+10.		_config.yml is where you can customize other parts of your new site 
+
+##Changing your name
+1.	Click on the pencil icon on the toolbar above the _config.yml text field. 
+2.	In_config.yml go line 6 to change your name. Don’t delete “Name:!”  that’s what tells the code what to do. Write your name after that. 
+3.	Scroll down, and hit commit changes. CHILL! It may take ten minutes for changes to take effect. 
+
+##Changing your avatar
+1. To change your picture: Go to line 12: Avatar. 
+2. There are two ways to add pictures:
+•	Via internet URLs (as mentioned above)
+•	Or by creating a folder in the repository of your own images and linking them within your document.
+3. Hit commit. 
+4. It should look like this:
 
 #Using the tool
-1.	Go to your username.github.io and see the changes you made (username, picture, description). 
+1.	Go to your new blog site by entering username.github.io in your browser and see the changes you made (username, picture, description). 
 2.	Way to go champ! You’re up and running! 
-3.	To make your first post, just redo the intro. Go back to your repository for Jekyll. 
-4.	Go to _posts. Click on it. 
-5.	2014-3-3-Hello-World.md 
-6.	Find the pencil in the toolbar, get ready to edit!
-7.	On line 03, re-title the post
-8.	Below line four, start writing your masterpiece. 
-9.	Finish writing, then scroll down and hit COMMIT!
+
+##Making a post
+1.	To make your first post, just redo the intro. Go back to your repository for Jekyll. 
+2.	Go to _posts. Click on it. 
+3.	Click on 2014-3-3-Hello-World.md 
+4.	Find the pencil in the toolbar, get ready to edit!
+5.	On line 03, re-title the post
+6.	Below line four, start writing your masterpiece. 
+7.	Finish writing, then scroll down and hit COMMIT!
+8.	10.	To create a new post, go to _posts folder and click the plus sign.
+9.	Give your new post a name by following this formula: YEAR-MONTH-DAY-NEW-POST-EXAMPLE.md (2015-10-16-New-Post.md)
+10.	For your post to show up like a post you need to put this text in the first four lines: 
+>	---
+>	layout: post
+>	title: Second Post
+>	---
+11.	And now you can start writing your new post!
+12.	Remember to hit Commit to save all of your work.
+
+##Creating your About page	
+1.	And now you can start writing your new post!
+2.	To create to your “About” page, go to the “about.md” file
+3.	If you would like to change the name from “About” to something else, go to line 3 where is says “title: About” and change “About” to whatever you want it to say.
+4.	You can add or change the headings as you wish or keep them as is
+5.	If you want the headings to differ in size, adjust the number of hashtags (#) 
+6.	 One # will make the biggest heading, ## the second biggest, and ### the smallest
+
 
 #Roadblocks
+
+##With GitHub
 1. Visualize Repositories Differently
-2. Changing the name of different documents
-3. 
+
+##With Jekyll
+1. Not knowing the code
+  o	While trying to change the date on one of the blog posts, I accidentally erased the entire blog page.
+  o	This is because I did not fully understand the code and what is needed for certain things to function
+  o	To change the date of a post, you change the title.  
+  o	Example: “2014-3-3-Hello-World.md”
+  o	I deleted that and changed it to: “2015-10-08-I’m-Batman”
+  o	Notice anything different?  I didn’t.  But I wasn’t look at them side by side either.
+  o	After asking questions and seeking help, my crucial error was pointed out to me.  I had dropped the “.md” from the title.  “.md” tells the program what the file is, and without that the program had no idea what to do with my post and had no where to put it because it could no longer belonged to an assigned category.
+2.	Adding pictures to posts
+  o	To do this you also need to understand the coding commands
+  o	There are two ways to add pictures:
+      •	Via internet URLs (as mentioned above)
+      •	Or by creating a folder in the repository of your own images and linking them within your document
+  o	To add a picture form the internet you need to type: ![this is an image](pasted URL) 
+  o	You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
+  o	I was able to figure this out by again asking questions
+  o	From those questions, I also found out that unless you have GitHub on your desktop, you cannot create a new folder for images to use your own
+
 
 #Conclusion
 Be patient and refresh if things aren’t working right away.
