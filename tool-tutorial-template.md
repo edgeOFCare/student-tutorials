@@ -41,8 +41,8 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 ##Changing your avatar
 1. To change your picture: Go to line 12: Avatar. 
 2. There are two ways to add pictures:
-•	Via internet URLs (as mentioned above)
-•	Or by creating a folder in the repository of your own images and linking them within your document.
+     Via internet URLs (as mentioned above)
+     Or by creating a folder in the repository of your own images and linking them within your document.
 3. Hit commit. 
 4. It should look like this:
 
