@@ -61,10 +61,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 8.	10.	To create a new post, go to _posts folder and click the plus sign.
 9.	Give your new post a name by following this formula: YEAR-MONTH-DAY-NEW-POST-EXAMPLE.md (2015-10-16-New-Post.md)
 10.	For your post to show up like a post you need to put this text in the first four lines: 
- -	---
- -	layout: post
- -	title: Second Post
- -	---
+ *	---
+ *	layout: post
+ *	title: Second Post
+ *	---
 11.	And now you can start writing your new post!
 12.	Remember to hit Commit to save all of your work.
 
