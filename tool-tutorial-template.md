@@ -33,12 +33,12 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 9.	Problems? Go back to your forked file, find _config.yml, click on it.
 10.		_config.yml is where you can customize other parts of your new site 
 
-##Changing your name
+###Changing your name
 1.	Click on the pencil icon on the toolbar above the _config.yml text field. 
 2.	In_config.yml go line 6 to change your name. Don’t delete “Name:!”  that’s what tells the code what to do. Write your name after that. 
 3.	Scroll down, and hit commit changes. CHILL! It may take ten minutes for changes to take effect. 
 
-##Changing your avatar
+###Changing your avatar
 1. To change your picture: Go to line 12: Avatar. 
 2. There are two ways to add pictures:
   *  Via internet URLs (as mentioned above)
@@ -50,7 +50,7 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 1.	Go to your new blog site by entering username.github.io in your browser and see the changes you made (username, picture, description). 
 2.	Way to go champ! You’re up and running! 
 
-##Making a post
+###Making a post
 1.	To make your first post, just redo the intro. Go back to your repository for Jekyll. 
 2.	Go to _posts. Click on it. 
 3.	Click on 2014-3-3-Hello-World.md 
@@ -68,7 +68,7 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 11.	And now you can start writing your new post!
 12.	Remember to hit Commit to save all of your work.
 
-##Creating your About page	
+###Creating your About page	
 1.	And now you can start writing your new post!
 2.	To create to your “About” page, go to the “about.md” file
 3.	If you would like to change the name from “About” to something else, go to line 3 where is says “title: About” and change “About” to whatever you want it to say.
@@ -76,13 +76,15 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 5.	If you want the headings to differ in size, adjust the number of hashtags (#) 
 6.	 One # will make the biggest heading, ## the second biggest, and ### the smallest
 
+----
+****
 
 #Roadblocks
 
-##With GitHub
+###With GitHub
 1. Visualize Repositories Differently
 
-##With Jekyll
+###With Jekyll
 1. Not knowing the code
   -	While trying to change the date on one of the blog posts, I accidentally erased the entire blog page.
   -	This is because I did not fully understand the code and what is needed for certain things to function
