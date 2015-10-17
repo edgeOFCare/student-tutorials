@@ -98,7 +98,7 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
   -	There are two ways to add pictures:
       *	Via internet URLs (as mentioned above)
       *	Or by creating a folder in the repository of your own images and linking them within your document
-  -	To add a picture form the internet you need to type: "![this is an image](pasted URL)" 
+  -	To add a picture form the internet you need to type: Example - ![this is an image](pasted URL) 
   -	You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
   -	I was able to figure this out by again asking questions
   -	From those questions, I also found out that unless you have GitHub on your desktop, you cannot create a new folder for images to use your own
