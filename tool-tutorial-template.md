@@ -25,10 +25,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 5.	Go to the settings button on the lower right (cog wheel).
 6.	Find the text box to re-title the repository.
 7.	Name it with your username (eg. username.github.io):
-  a. Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
+  - Go to the Jekyll homepage, scroll down and find “Custom Domain Name”, click on it. Under “Setting up a custom domain name” click on 
 “About custom domains for Github Sites” to ensure you’re doing it right. 
-  b. Scroll down to “How Github Pages use custom domains” 
-  c.	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
+  - Scroll down to “How Github Pages use custom domains” 
+  -	Follow instructions on how to correctly format your username into a domain name as a user, not an organization (eg. username.github.io)
 8.	Scroll down and find the green bar! It confirms your site has been published and tell you the link address. 
 9.	Problems? Go back to your forked file, find _config.yml, click on it.
 10.		_config.yml is where you can customize other parts of your new site 
@@ -41,8 +41,8 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 ##Changing your avatar
 1. To change your picture: Go to line 12: Avatar. 
 2. There are two ways to add pictures:
-     Via internet URLs (as mentioned above)
-     Or by creating a folder in the repository of your own images and linking them within your document.
+  *  Via internet URLs (as mentioned above)
+  *  Or by creating a folder in the repository of your own images and linking them within your document.
 3. Hit commit. 
 4. It should look like this:
 
@@ -61,10 +61,10 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 8.	10.	To create a new post, go to _posts folder and click the plus sign.
 9.	Give your new post a name by following this formula: YEAR-MONTH-DAY-NEW-POST-EXAMPLE.md (2015-10-16-New-Post.md)
 10.	For your post to show up like a post you need to put this text in the first four lines: 
->	---
->	layout: post
->	title: Second Post
->	---
+ -	---
+ -	layout: post
+ -	title: Second Post
+ -	---
 11.	And now you can start writing your new post!
 12.	Remember to hit Commit to save all of your work.
 
@@ -84,22 +84,22 @@ This is a tutorial to show you how to set up your blog wesite with Jekyll and Gi
 
 ##With Jekyll
 1. Not knowing the code
-  o	While trying to change the date on one of the blog posts, I accidentally erased the entire blog page.
-  o	This is because I did not fully understand the code and what is needed for certain things to function
-  o	To change the date of a post, you change the title.  
-  o	Example: “2014-3-3-Hello-World.md”
-  o	I deleted that and changed it to: “2015-10-08-I’m-Batman”
-  o	Notice anything different?  I didn’t.  But I wasn’t look at them side by side either.
-  o	After asking questions and seeking help, my crucial error was pointed out to me.  I had dropped the “.md” from the title.  “.md” tells the program what the file is, and without that the program had no idea what to do with my post and had no where to put it because it could no longer belonged to an assigned category.
+  -	While trying to change the date on one of the blog posts, I accidentally erased the entire blog page.
+  -	This is because I did not fully understand the code and what is needed for certain things to function
+  -	To change the date of a post, you change the title.  
+  -	Example: “2014-3-3-Hello-World.md”
+  -	I deleted that and changed it to: “2015-10-08-I’m-Batman”
+  -	Notice anything different?  I didn’t.  But I wasn’t look at them side by side either.
+  -	After asking questions and seeking help, my crucial error was pointed out to me.  I had dropped the “.md” from the title.  “.md” tells the program what the file is, and without that the program had no idea what to do with my post and had no where to put it because it could no longer belonged to an assigned category.
 2.	Adding pictures to posts
-  o	To do this you also need to understand the coding commands
-  o	There are two ways to add pictures:
-      •	Via internet URLs (as mentioned above)
-      •	Or by creating a folder in the repository of your own images and linking them within your document
-  o	To add a picture form the internet you need to type: ![this is an image](pasted URL) 
-  o	You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
-  o	I was able to figure this out by again asking questions
-  o	From those questions, I also found out that unless you have GitHub on your desktop, you cannot create a new folder for images to use your own
+  -	To do this you also need to understand the coding commands
+  -	There are two ways to add pictures:
+      *	Via internet URLs (as mentioned above)
+      *	Or by creating a folder in the repository of your own images and linking them within your document
+  -	To add a picture form the internet you need to type: ![this is an image](pasted URL) 
+  -	You have to add the full JPEG URL. In your drop down, select Copy Image URL and then add the full URL. CAUTION! Don’t try to add an image from Instagram. Instagram hides the exact JPEG location.
+  -	I was able to figure this out by again asking questions
+  -	From those questions, I also found out that unless you have GitHub on your desktop, you cannot create a new folder for images to use your own
 
 
 #Conclusion
